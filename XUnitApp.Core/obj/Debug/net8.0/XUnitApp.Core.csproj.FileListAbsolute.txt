@@ -1,0 +1,11 @@
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\bin\Debug\net8.0\XUnitApp.Core.deps.json
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\bin\Debug\net8.0\XUnitApp.Core.dll
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\bin\Debug\net8.0\XUnitApp.Core.pdb
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\XUnitApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\XUnitApp.Core.AssemblyInfoInputs.cache
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\XUnitApp.Core.AssemblyInfo.cs
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\XUnitApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\XUnitApp.Core.dll
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\refint\XUnitApp.Core.dll
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\XUnitApp.Core.pdb
+C:\Users\llfoo\source\repos\XUnit.Core\XUnitApp.Core\obj\Debug\net8.0\ref\XUnitApp.Core.dll
